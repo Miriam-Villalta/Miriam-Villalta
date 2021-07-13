@@ -25,7 +25,10 @@ All of this influence my work in a very creative way and I enjoy learning and do
 📫 you can reach me in:
 
    LinkedIn https://www.linkedin.com/in/miriamvillaltabelda/
+   
    Instagram @xblaumi
+   
+ Hope you like it! 😄
 
 
 
