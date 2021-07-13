@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I'm an artist who recently became Frontend Developer by Adalab.
+I'm very curious about different matters, always searching to be a better version of myself. I like to help in everything I can.
 I would like to be part of a team who help me to be a better version of myself and we can learn from each other.
 
 I have previous skills in differents matters as:
