@@ -22,7 +22,7 @@ I have previous skills in differents matters as:
 
 All of this influence my work in a very creative way and I enjoy learning and doing new things every day.
 
-📫 you can reach me in:
+📫 You can reach me in:
 
    LinkedIn https://www.linkedin.com/in/miriamvillaltabelda/
    
