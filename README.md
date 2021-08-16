@@ -7,11 +7,11 @@ I can't live without practising sports, specially Crossfit, which have given me 
 I would like to be part of a team who help me to reach that goal of improving every day and we can learn from each other.
 
 My recent skills as a Frontend Developer include:
-- HTML
-- CSS and SASS
-- JavaScript
-- React
-- Gulp
+- _HTML_
+- _CSS and SASS_
+- _JavaScript_
+- _React_
+- _Gulp_
 
 I have previous skills in differents matters as:
 - Painting
