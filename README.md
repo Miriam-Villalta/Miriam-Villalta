@@ -13,6 +13,10 @@ My recent skills as a Frontend Developer include:
 - _React_
 - _Gulp_
 
+I'm currently developing new technical skills in:
+- _Java_
+- _SQL_
+
 I have previous skills in differents matters as:
 - Painting
 - Esculture
