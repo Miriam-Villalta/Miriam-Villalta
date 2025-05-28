@@ -1,17 +1,14 @@
 ### Hello there 👋
 
-I'm an Fullstack Developer with an interesing background in arts.
-I'm very curious about different matters, which took me to work in various sections, always searching to be a better version of myself, I like to help in everything I can.
+I'm an Frontend Developer with an interesing background in arts.
+I'm very curious about different matters, which took me to work in various sections. I'm always searching to be a better version of myself as I like to help in everything I can.
 I can't live without practising sports, specially Crossfit, which have given me strength, both physical and mental, and not to give up no matter how difficulties could come, specially when you believe in something.
 
-I would like to be part of a team who help me to reach that goal of improving every day and we can learn from each other.
-
-My recent skills as a Fullstack Developer include:
+My recent skills as a Frontend Developer, with some knowledge in Backend include:
 - _HTML_
 - _CSS and SASS_
 - _JavaScript_
 - _React_
-- _Gulp_
 - _Node.js_
 - _Java_
 - _SQL_
@@ -19,7 +16,7 @@ My recent skills as a Fullstack Developer include:
 As mentioned before, I have previous skills in differents artistic matters as:
 - Painting
 - Esculture
-- Graphic Design (Photoshop, Ilustrator, InDesing, Premier, AffertEffects, Zbrush...)
+- Graphic Design (Photoshop, Ilustrator, InDesing, Premier, Zbrush...)
 - Make-up artist (zombies and FX is one of my best)
 - Writing
 
